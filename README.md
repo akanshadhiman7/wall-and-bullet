@@ -1,2 +1,2 @@
-# wall-and-bullet
-wall and bullet
+# p5.play-boilerplate
+Boiler plate for p5.play
